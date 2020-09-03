@@ -1,4 +1,4 @@
-module greatbold.org/gbutility
+module github.com/gedesukra/gbutility
 
 go 1.14
 
